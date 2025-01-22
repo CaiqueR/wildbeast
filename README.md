@@ -60,7 +60,7 @@ grid-template-areas:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/wildbeast.git
+git clone https://github.com/CaiqueR/wildbeast.git
 ```
 
 2. Open `index.html` in your browser
@@ -73,7 +73,7 @@ git clone https://github.com/yourusername/wildbeast.git
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](link-to-issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/CaiqueR/wildbeast/issues).
 
 ## 📝 License
 
